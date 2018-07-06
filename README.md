@@ -25,6 +25,8 @@ Tenang saja, rekan-rekan yang belum merasa akrab dengan Python dan teori-teori d
 2. Perkembangan Machine Learning saat ini: Riset di datalab PNU
 3. Hands-on 1: Python dan Jupyter Notebook
 4. Hands-on 2: Analisis Data dengan Numpy dan Pandas
+(Numpy tutorial: http://cs231n.github.io/python-numpy-tutorial/)
+(Pandas tutorial: https://pandas.pydata.org/pandas-docs/stable/tutorials.html)
 5. Hands-on 3: Prediksi menggunakan Regresi Linier
 6. Hands-on 4: Klasifikasi menggunakan Regresi Logistik
 7. Hands-on 5: Prediksi dan Klasifikasi menggunakan Metode Berbasis Pohon Keputusan
